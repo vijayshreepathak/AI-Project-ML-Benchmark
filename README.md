@@ -1,8 +1,4 @@
-Here’s an attractive and complete `README.md` for your MNIST Digit Recognition project, including all details from the bar chart images on accuracy, training time, and prediction time:
 
----
-
-````markdown
 # MNIST Digit Recognition: Multi-Algorithm Benchmark Analysis
 
 Welcome to the **MNIST Digit Recognition** project!  
